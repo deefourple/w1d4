@@ -10,5 +10,5 @@ function actionWhenFound(index) {
  console.log("Found Waldo at index " + index);
 }
 
-findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound);
+ findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound);
 
